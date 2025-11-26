@@ -528,7 +528,6 @@ img {
     outline: none;
 }
 
-
 .subscribe-input::placeholder {
     color: #fff;
 }
@@ -560,6 +559,7 @@ img {
 
 .button-footer .icon-footer {
     fill: #FFFFFF;
+    margin-left: 16px;
 }
 
 /* #endregion Footer */
